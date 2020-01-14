@@ -1,16 +1,7 @@
 @charset "UTF-8";
 
-.header{
-	width:1500px;
-	border-bottom: solid 2px black;
-	padding-bottom: 10px;
-}
 
- .title{
- 	width:inherit;
- 	font-size: 150px;
- }
- 
+
 .logindiv{
 	margin: 20px 0px 20px 0px;
 }

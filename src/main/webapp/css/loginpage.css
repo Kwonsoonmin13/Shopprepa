@@ -1,0 +1,45 @@
+@charset "UTF-8";
+.titlediv{
+	margin-bottom: 20px;
+}
+
+.loginlayout{
+	position: absolute;
+	width: 800px;
+	height: 800px;
+	left: 600px;
+	top:400px;
+	border: solid black 1px;
+}
+
+.logininputdiv{
+	width : fit-content;
+	overflow: auto;
+	position: absolute;
+	left: 900px;
+	margin : 300px 0 0 -200px;
+}
+
+.iddiv, .passworddiv{
+	width:fit-content;
+	float: left;
+	clear: left;
+}
+
+.passworddiv{
+	margin-top: 40px;
+}
+
+
+.idstr, .passwordstr{
+	font-size: 40px;
+}
+#blankstr{
+	margin-left: 184px;
+}
+
+.idinput, .passwordinput{
+	height : 30px;
+	font-size : 30px;
+}
+

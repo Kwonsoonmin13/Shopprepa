@@ -12,7 +12,7 @@
 	
 	<div class ="header">
 		<div class="titlediv"><span class ="title">Prepare Shop</span></div>
-		<div class="logindiv"><span class ="login">Login</span></div>
+		<div class="logindiv"><span class ="login" onclick="http://localhost:8080/shopprepa/login">Login</span></div>
 	</div>
 	
 	<div class="nav">
@@ -28,16 +28,10 @@
 	
 	<div class="product">
 		<ul class="productul">
+		<% for(int i=0;i<15;i++){
+			%>
 			<li class="productli">
-			<li class="productli">
-			<li class="productli">
-			<li class="productli">
-			<li class="productli">
-			<li class="productli">
-			<li class="productli">
-			<li class="productli">
-			<li class="productli">
-			<li class="productli">
+			<%} %>
 		</ul>
 	</div>
 	
