@@ -52,6 +52,18 @@
 	float: left;
 }
 
+img{
+	width:400px;
+}
+
+.clothname{
+	font-size : 30px;
+}
+
+.clothprice{
+	font-size : 15px;
+}
+
 
  
  

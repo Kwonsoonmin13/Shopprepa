@@ -3,31 +3,35 @@
 	margin-bottom: 20px;
 }
 
+.loginlogo{
+	width:200px;
+	height:200px;
+	position:absolute;
+	left:850px;
+	top:450px;
+	background-color:white;
+}
+
 .loginlayout{
 	position: absolute;
 	width: 800px;
 	height: 800px;
-	left: 600px;
-	top:400px;
+	top: 500px;
+	left:500px;
 	border: solid black 1px;
 }
 
 .logininputdiv{
 	width : fit-content;
-	overflow: auto;
 	position: absolute;
-	left: 900px;
-	margin : 300px 0 0 -200px;
 }
 
 .iddiv, .passworddiv{
 	width:fit-content;
-	float: left;
-	clear: left;
 }
 
 .passworddiv{
-	margin-top: 40px;
+margint-top:30px;	
 }
 
 
@@ -41,5 +45,9 @@
 .idinput, .passwordinput{
 	height : 30px;
 	font-size : 30px;
+	border: dotted;
+	
 }
+
+
 

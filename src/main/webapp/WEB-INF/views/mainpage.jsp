@@ -28,9 +28,12 @@
 	
 	<div class="product">
 		<ul class="productul">
-		<% for(int i=0;i<15;i++){
+		<% for(int i=1;i<8;i++){
 			%>
-			<li class="productli">
+			<li class="productli"><img  src="http://localhost:8080/shopprepa/img/outer/outer<%=i%>.png">
+			<span class="clothname">패딩</span> <br>
+			<span class="clothprice">39000</span>
+			</li>
 			<%} %>
 		</ul>
 	</div>

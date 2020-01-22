@@ -14,6 +14,8 @@
 		<div class="titlediv"><span class="title">Prepare Shop</span></div>
 	</div>
 	
+	<div class=loginlogo>LOGIN</div>
+	
 	<div class =loginlayout></div>
 	<div class ="logininputdiv">
 		<div class ="iddiv" left ="0px">
@@ -26,5 +28,6 @@
 			<input type="password" class ="passwordinput">
 		</div>
 	</div>
+	<div></div>
 </body>
 </html>
